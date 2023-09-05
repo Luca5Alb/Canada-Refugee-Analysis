@@ -8,3 +8,5 @@ Original dataset can be downloaded from the [unhcr.org](https://www.unhcr.org/re
 3. What are the countries of origin for the majority of asylum claims made in Canada?
 4. What is the total number of asylum claims made in Canada every year?
 5. What are the general trends in refugee and asylum statistics from 2012-2022?
+
+![image](https://github.com/Luca5Alb/Canada-Refugee-Analysis/assets/104235380/27783581-417e-4b0f-b850-cc6552d2d982)
